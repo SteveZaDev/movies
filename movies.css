@@ -1,0 +1,316 @@
+
+:root{
+--deepPurple: #22254b;
+--deepLightPurple: #22254be3;
+--color1: #fffc31;
+--color2: #D8973C;
+--color3: #736372;
+--color4: #36827F;
+--color5: #C6D8FF;
+}
+
+
+
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #22254b;
+
+background: rgb(251,193,29);
+background: radial-gradient(circle, rgba(251,193,29,.75) 0%, rgba(251,193,29,.75) 25%, rgba(220,20,60,.75) 100%); 
+  background: url("./pics/velvet.jpg");  
+  display: flex;
+  justify-content: center;
+ /* font-family: 'Sancreek', cursive;
+*/
+  font-family: Georgia, 'Times New Roman', Times, serif;
+ /*background: url("https://video.wixstatic.com/video/11062b_62f0356712544a87b392417662c4658d/720p/mp4/file.mp4");
+  background-size: cover;*/
+
+
+
+}
+
+
+
+
+.curtains{
+  position: absolute;
+  width: 110%;
+  height: 95%;
+  transform: translateX(-40px);
+  
+}
+
+
+#container{
+  justify-content: center;
+}
+
+h1{
+  margin-top: 1vh;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: antiquewhite;
+}
+
+#game-container{
+  margin-top: 4vh;  
+  width: 95vw;
+  max-width: 800px;
+  height: 75vh;
+  position: relative;
+  box-shadow: 5px 5px 10px rgba(100, 150, 250, .7);
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+#puzzle{
+  display: flex;
+  width: 100%;
+  height: 65%;
+  background-color: wheat;
+  justify-content: center;
+  align-items: center;
+  align-items: flex-end;
+}
+
+#initials{
+  font-size: 5.5vw;
+  letter-spacing: 2px;
+  text-shadow: 4px 4px 5px rgba(0,0,0,.5);
+  z-index: 2;
+}
+
+
+
+#rsp-hints-tray{
+  width: 100%;
+  height: 35%;
+  background-color: rgba(240,240,240, .6);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  z-index: 2;
+}
+
+#span1{
+  color: red;
+}
+
+#span2{
+  color: white;
+}
+
+
+#span3{
+  color: blue;
+}
+
+.answer{
+  margin-right: 5px;
+}
+
+.response{
+  margin-left: 5px;
+}
+
+.line{
+  visibility: hidden;
+}
+
+#movie1:hover{
+  cursor: pointer;
+  color: var(--color1);
+}
+
+#movie2:hover{
+  cursor: pointer;
+  color: var(--color2);
+}
+
+
+#movie3:hover{
+  cursor: pointer;
+  color: var(--color3);
+}
+
+
+#movie4:hover{
+  cursor: pointer;
+  color: var(--color4);
+}
+
+
+#movie5:hover{
+  cursor: pointer;
+  color: var(--color5);
+}  
+
+#hint1:hover{
+  cursor: pointer;
+}
+
+.rsp-hints{
+  width: 100%;
+  background-color: rgba(102, 51, 153, 0.529);
+}
+
+#line1{
+  display: flex;
+}
+
+.hint{
+  width: 20px;
+  height: 20px;
+
+  margin: 0 .25rem;
+  background-color: silver;
+  cursor: pointer;
+}
+
+
+.line{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;  
+  border: 1px solid var(--deepPurple);
+  z-index: 2;
+}
+
+
+.input{
+  margin-right: 1rem;
+  width: 150px;
+  border: 1px solid;
+  font-size: 1rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.response{
+  display: flex;
+}
+
+p{
+  padding-right: .5rem;
+}
+
+.btn-grp{
+  margin-top: .5rem;
+  z-index: 2;
+}
+
+button{
+  cursor: pointer;
+}
+
+#help-btn{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 2rem;
+  color: white;
+  position: absolute;
+  top:  0px;
+  right: 10px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 15;
+}
+
+
+
+     /* MODAL POPUP CSS  */
+     .mpopup {
+      display: none;
+      position: fixed;
+      z-index: 3;
+      padding-top: 100px;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgb(0,0,0);
+      background-color: rgba(0,0,0,0.4);
+      font-family: 'Times New Roman', Times, serif;
+  
+  }
+  .modal-content {
+      position: relative;
+      background-color: #eee;
+      margin: auto;
+      padding: 0;
+      width: 85%;
+      max-width: 450px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+      animation-name: animatetop;
+      animation-duration: 1.4s;
+      border-radius: 0.3rem;
+      text-align: left;
+    
+  }
+  .modal-header {
+      padding: 2px 12px;
+      background-color: var(--deepLightPurple);
+      
+background: rgb(251,193,29);
+background: radial-gradient(circle, rgba(251,193,29,1) 0%, rgba(251,193,29,1) 25%, rgba(220,20,60,1) 100%); 
+      color: rgb(201, 170, 113);
+      color: black;
+      border-bottom: 1px solid #e9ecef;
+      border-top-left-radius: 0.3rem;
+      border-top-right-radius: 0.3rem;
+      text-align: center;
+  }
+  .modal-header h2{
+      font-size: 1.25rem;
+      margin-top: 14px;
+      margin-bottom: 14px;
+      position: relative;
+  }
+  .modal-body {
+      padding: 2px 12px;
+      color: black;
+      display: flex;
+      justify-content: center;
+  }
+  .modal-footer {
+      padding: 1rem;
+      background-color: #ffffff;
+      color: #333;
+      border-top: 1px solid #e9ecef;
+      border-bottom-left-radius: 0.3rem;
+      border-bottom-right-radius: 0.3rem;
+      text-align: right;
+  }
+  
+  .close {
+      color: #888;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+      z-index: 3;
+  }
+  .close:hover, .close:focus {
+      color: #000;
+      text-decoration: none;
+      cursor: pointer;
+  }
+
+  a{
+    position: absolute;
+    top: 12px;
+    right: 50%;
+  }
+
+  /* add animation effects */
+  @keyframes animatetop {
+      from {top:-300px; opacity:0}
+      to {top:0; opacity:1}
+  }
