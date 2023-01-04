@@ -50,7 +50,7 @@ oscar: "Y"
   director: "Wesley Ruggles",
   stars: ["Richard Dix", "Irene Dunne"],
   lines: [""],
-  hints: ["Early Oscar Winner"],
+  hints: ["Early Oscar Winning Western", "From an Edna Ferber novel of the same name.", "Sounds like a spice."],
   pics: [],
   videos: ['./vids/test.mp4'],
   audios: ["./auds/boo.mp3"],
@@ -65,7 +65,7 @@ oscar: "Y"
   director: "Edmund Goulding",
   stars: ["Greta Garbo", "John Barrymore", "Joan Crawford"],
   lines: [""],
-  hints: ["First Oscar winner to have a stellar cast", "Berlin"],
+  hints: ["First Oscar winner to have a stellar cast", "Berlin", "Adlon Kempinski"],
   pics: [],
   videos: ['./vids/test.mp4'],
   audios: ["./auds/boo.mp3"],
@@ -94,8 +94,8 @@ oscar: "Y"
   init: "C",
   director: "Frank Lloyd",
   stars: ["Diana Wynyard", "Clive Brook"],
-  lines: ["Kill him! Kill him!"],
-  hints: ["Another early oscar winner"],
+  lines: [""],
+  hints: ["Another early oscar winner. This one set in England", "The name of the movie means a ceremonial procession or display."],
   pics: [],
   videos: ['./vids/test.mp4'],
   audios: ["./auds/boo.mp3"],
@@ -180,7 +180,7 @@ oscar: "Y"
   },
 {
   year: 1934,
-  title: "The Scarlett Pimpernell",
+  title: "The Scarlett Pimpernel",
   init: "TSP",
   director: "Harold Young",
   stars: ["Leslie Howard", "Merle Oberon", "Raymond Massey", "Nigel Bruce"],
@@ -360,6 +360,7 @@ oscar: "Y"
 }*/
 ];
 
+const dec1920s=["./1920s/nilsasther.jpg","./1920s/valentino.jpg","./1920s/garbo.jpg","./1920s/marypickford.jpg","./1920s/fairbanks.jpg","./1920s/gaynor.jpg"]
 
 // ARRAY OF 5 COLORS FOR THE INITIALS
 let initColors=['#fffc31', '#D8973C', '#736372', '#36827F', '#C6D8FF']
@@ -551,7 +552,7 @@ function findSpecificYear(y){
 
 
 function showHelp(){
-  modalTextEl.style.fontSize = '1.25rem';
+  modalTextEl.style.fontSize = '1.05rem';
   modalHeaderTextEl.textContent = "WELCOME TO M.O.V.I.E.S.!!";
   modalTextEl.textContent = ("'M.O.V.I.E.S.' " + "so far has a collection of " + protoMovies.length + " movies starting with the year " + earliestYear + " and going thru to " + latestYear + ", including " + oscarWinners + " Oscar winners. You can generate movie initials in one of two ways. Select the 'Random' button to display the initials of one and only one movie. If you select the 'Oscars' button you will get either a set of initials for Oscar nominated films from one randomly selected year, or you will get a set of initials of 5 Oscar winning films from a consecutive 5 year span between " + earliestYear + " and " + latestYear + ", but the order will be jumbled. To take a guess, enter the movie name in the text box and either press the enter key or click 'Sub'. Up to 3 hints are available for each film. These hints can be in the form of a word or short phrase, an audio clip, an image or a short video clip. Another helpful aide is to hover over and/or click on any of the initials displayed. That letter, along with the rest of the initials for the movie it is part of, will change color. When all else fails, you can select the 'Ans' button. Once there, '...' will take you to more info."); 
   modalImgEl.style.display = "none";
@@ -752,6 +753,9 @@ function submit(linenum){
   modalHeaderTextEl.textContent = "Your Answer" 
   if(upperAns === upperCorrect){
     modalTextEl.textContent = "You are correct!!!"
+    const audio = new Audio ("./auds/tada.mp3");
+    audio.play(); 
+    showAnswer(linenum)
   }
   else
   {
@@ -764,7 +768,34 @@ function submit(linenum){
   modalTextEl.style.display = "block";
 }
 
+function  showPics(){
 
+  let containerEl = document.body
+  let images = document.getElementsByClassName("img")
+
+   while(images.length > 0) {
+    images[0].parentNode.removeChild(images[0]);
+   }
+
+  for(i=0; i<dec1920s.length; i++ ){
+    let img = document.createElement('img');
+    console.log("width = " + containerEl.clientWidth)
+    let xoffset = Math.floor(Math.random()*containerEl.clientWidth)
+    let yoffset = Math.floor(Math.random()*450)
+    let width = 100+Math.floor(Math.random()*100)
+    img.src = dec1920s[i]
+    img.style.position="absolute"
+    img.style.top= yoffset+"px"
+    img.style.left = xoffset+"px"
+    img.style.width = width+"px"
+    img.style.opacity = .65
+    img.style.borderRadius = "35px"
+    img.className = "img"
+
+  //  document.getElementById('container').appendChild(img);
+    containerEl.appendChild(img);
+}
+}
 
 
 function showAnswer(linenum){

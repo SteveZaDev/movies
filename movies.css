@@ -30,7 +30,8 @@ background: radial-gradient(circle, rgba(251,193,29,.75) 0%, rgba(251,193,29,.75
   font-family: Georgia, 'Times New Roman', Times, serif;
  /*background: url("https://video.wixstatic.com/video/11062b_62f0356712544a87b392417662c4658d/720p/mp4/file.mp4");
   background-size: cover;*/
-
+  position: relative;
+  overflow: hidden;
 
 
 }
@@ -42,13 +43,16 @@ background: radial-gradient(circle, rgba(251,193,29,.75) 0%, rgba(251,193,29,.75
   position: absolute;
   width: 110%;
   height: 95%;
-  transform: translateX(-40px);
+  left: 50%;
+  transform: translate(-50%, -0%);
+
   
 }
 
 
 #container{
   justify-content: center;
+  position: relative;
 }
 
 h1{
@@ -80,7 +84,7 @@ h1{
 }
 
 #initials{
-  font-size: 5.5vw;
+  font-size: 5.0vw;
   letter-spacing: 2px;
   text-shadow: 4px 4px 5px rgba(0,0,0,.5);
   z-index: 2;
@@ -313,4 +317,50 @@ background: radial-gradient(circle, rgba(251,193,29,1) 0%, rgba(251,193,29,1) 25
   @keyframes animatetop {
       from {top:-300px; opacity:0}
       to {top:0; opacity:1}
+  }
+
+
+  @media (max-width:600px){
+    #initials{
+      font-size: 7.0vw;
+      letter-spacing: 1px;
+    }    
+  }
+
+  @media (max-height:600px){
+    #puzzle{
+      height: 45%;
+    }
+    
+    
+    #rsp-hints-tray{
+      height: 55%;
+    }
+  }
+
+  @media (max-height:400px){
+    #puzzle{
+      height: 40%;
+    }
+        
+    #rsp-hints-tray{
+      height: 60%;
+    }
+
+    #initials{
+      font-size: 12.0vh;
+      letter-spacing: 1px;
+    }  
+ 
+    .btn-grp{
+      position: absolute;
+      top: 10px;
+
+    }
+
+    .modal-body {
+      font-size: 10px;
+ 
+  }
+
   }
