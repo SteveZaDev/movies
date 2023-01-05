@@ -255,7 +255,7 @@ oscar: "Y"
   },
   {
     year: 1935,
-    title: "The Bride of Frakenstein",
+    title: "The Bride of Frankenstein",
     init: "TBOF",
     director: "James Whale",
     stars: ["Boris Karloff", "Elsa Lanchester", "Colin Clive"],
@@ -554,7 +554,7 @@ function findSpecificYear(y){
 function showHelp(){
   modalTextEl.style.fontSize = '1.25rem';
   modalHeaderTextEl.textContent = "WELCOME TO M.O.V.I.E.S.!!";
-  modalTextEl.textContent = ("'M.O.V.I.E.S.' " + "so far has a collection of " + protoMovies.length + " movies starting with the year " + earliestYear + " and going thru to " + latestYear + ", including " + oscarWinners + " Oscar winners. You can generate movie initials in one of two ways. Select the 'Random' button to display the initials of one and only one movie. If you select the 'Oscars' button you will get either a set of initials for Oscar nominated films from one randomly selected year, or you will get a set of initials of 5 Oscar winning films from a consecutive 5 year span between " + earliestYear + " and " + latestYear + ", but the order will be jumbled. To take a guess, enter the movie name in the text box and either press the enter key or click 'Sub'. Up to 3 hints are available for each film. These hints can be in the form of a word or short phrase, an audio clip, an image or a short video clip. Another helpful aide is to hover over and/or click on any of the initials displayed. That letter, along with the rest of the initials for the movie it is part of, will change color. When all else fails, you can select the 'Ans' button. Once there, '...' will take you to more info."); 
+  modalTextEl.textContent = ("So far, 'M.O.V.I.E.S.' " + "has a collection of " + protoMovies.length + " films starting with the year " + earliestYear + " and going thru to " + latestYear + ", including " + oscarWinners + " Oscar winners. You can generate movie initials in one of two ways. Select the 'Random' button to display the initials of one and only one movie. If you select the 'Oscars' button you will get either a set of initials for Oscar nominated films from one randomly selected year, or you will get a set of initials of 5 Oscar winning films from a consecutive 5 year span between " + earliestYear + " and " + latestYear + ", but the order will be jumbled. To take a guess, enter the movie name in the text box and either press the enter key or click 'Sub'. Up to 3 hints are available for each film. These hints can be in the form of a word or short phrase, an audio clip, an image or a short video clip. Another helpful aide is to hover over and/or click on any of the initials displayed. That letter, along with the rest of the initials for the movie it is part of, will change color. When all else fails, you can select the 'Ans' button. Once there, '...' will take you to more info."); 
   modalImgEl.style.display = "none";
   modalVidEl.style.display = "none";
   mpopup.style.display = "block";
@@ -632,7 +632,7 @@ function movieClick(m){
 }
 
 function hint1(movie){
-  modalTextEl.style.fontSize = '2rem';
+  modalTextEl.style.fontSize = '1.25rem';
   modalHeaderTextEl.textContent = "Hint #1" 
   let hint = (selectedMovies[movie-1].hints[0]);
   let last3 = (hint.slice(hint.length - 3));
@@ -654,7 +654,7 @@ function hint1(movie){
 
 
 function hint2(movie){
-  modalTextEl.style.fontSize = '2rem';
+  modalTextEl.style.fontSize = '1.25rem';
   modalHeaderTextEl.textContent = "Hint #2" 
   let hint = (selectedMovies[movie-1].hints[1]);
   let last3 = (hint.slice(hint.length - 3));
@@ -678,7 +678,7 @@ function hint2(movie){
 
 
 function hint3(movie){
-  modalTextEl.style.fontSize = '2rem';
+  modalTextEl.style.fontSize = '1.25rem';
   modalHeaderTextEl.textContent = "Hint #3" 
   let hint = (selectedMovies[movie-1].hints[2]);
   let last3 = (hint.slice(hint.length - 3));

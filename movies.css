@@ -207,10 +207,17 @@ p{
 .btn-grp{
   margin-top: .5rem;
   z-index: 2;
+  position: absolute;
+  top: 5px;
 }
 
 button{
   cursor: pointer;
+}
+
+::placeholder {
+  color: black;
+  font-size: 14px;
 }
 
 #help-btn{
@@ -233,7 +240,7 @@ button{
       display: none;
       position: fixed;
       z-index: 3;
-      padding-top: 100px;
+      padding-top: 25px;
       left: 0;
       top: 0;
       width: 100%;
@@ -261,9 +268,8 @@ button{
   .modal-header {
       padding: 2px 12px;
       background-color: var(--deepLightPurple);
-      
-background: rgb(251,193,29);
-background: radial-gradient(circle, rgba(251,193,29,1) 0%, rgba(251,193,29,1) 25%, rgba(220,20,60,1) 100%); 
+      background: rgb(251,193,29);
+      background: radial-gradient(circle, rgba(251,193,29,1) 0%, rgba(251,193,29,1) 25%, rgba(220,20,60,1) 100%); 
       color: rgb(201, 170, 113);
       color: black;
       border-bottom: 1px solid #e9ecef;
@@ -272,7 +278,7 @@ background: radial-gradient(circle, rgba(251,193,29,1) 0%, rgba(251,193,29,1) 25
       text-align: center;
   }
   .modal-header h2{
-      font-size: 1.25rem;
+      font-size: 1.1rem;
       margin-top: 14px;
       margin-bottom: 14px;
       position: relative;
