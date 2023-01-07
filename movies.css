@@ -225,7 +225,7 @@ button{
   font-size: 2rem;
   color: white;
   position: absolute;
-  top:  45px;
+  top:  20px;
   right: 10px;
   background: transparent;
   border: none;
@@ -302,7 +302,7 @@ button{
   .close {
       color: #888;
       float: right;
-      font-size: 28px;
+      font-size: 40px;
       font-weight: bold;
       cursor: pointer;
       z-index: 3;

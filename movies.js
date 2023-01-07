@@ -327,7 +327,277 @@ oscar: "Y"
   syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
   links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
   oscar: "N"
-  }        
+  },
+  {
+  year: 1936,
+  title: "Anthony Adverse",
+  init: "AA",
+  director: "Mervyn LeRoy",
+  stars: ["Frederick March", "Olivia DeHavilland", "Donald Woods", "Claude Rains", "Anita Louise", "Gale Sondergaard"],
+  lines: [""],
+  hints: ["Fredric March stars as the title character", "Sondergaard won the first Best Supporting Actress Oscar"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "expensive blockbuster film, a lengthy historical epic drama, was based on Hervey Allen's 1933 bestseller novel (of over 1,200 pages). It had an impressive musical score by Erich Wolfgang Korngold, and won the Academy Award for Best Original Score. The grandscale film had 98 speaking parts, thousands of extras, and over 130 different sets. It was notable as the first film to be honored with the newly-created Best Supporting Actress Academy Award (awarded to Gale Sondergaard).",
+  links: ["https://www.imdb.com/title/tt0027300/fullcredits?ref_=tt_ov_st_sm"],
+  oscar: ""
+  },
+  {
+  year: 1936,
+  title: "Camille",
+  init: "C",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1936,
+  title: "Dodsworth",
+  init: "D",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1936,
+  title: "Modern Times",
+  init: "MT",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1936,
+  title: "My Man Godfrey",
+  init: "MMG",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1936,
+  title: "The Petrified Forest",
+  init: "TPF",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1936,
+  title: "The Plainsman",
+  init: "TP",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1936,
+  title: "Sabotage",
+  init: "S",
+  director: "Alfred Hitchcock",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1936,
+  title: "San Francisco",
+  init: "SF",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1936,
+  title: "The Story of Louis Pasteur",
+  init: "TSOLP",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1937,
+  title: "The Awful Truth",
+  init: "TAT",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: "N"
+  },
+  {
+  year: 1937,
+  title: "The Life of Emile Zola",
+  init: "TLOEZ",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: "Y"
+  },
+  {
+  year: 1937,
+  title: "Captains Courageous",
+  init: "CC",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: "N"
+  },
+  {
+  year: 1937,
+  title: "The Good Earth",
+  init: "TGE",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: "N"
+  },
+  {
+  year: 1937,
+  title: "Lost Horizon",
+  init: "LH",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: "N"
+  },
+  {
+  year: 1937,
+  title: "The Prisoner of Zenda",
+  init: "TPOZ",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1937,
+  title: "Stella Dallas",
+  init: "SD",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  },
+  {
+  year: 1937,
+  title: "Topper",
+  init: "T",
+  director: "Frank Capra",
+  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  lines: [""],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  oscar: ""
+  }       
   
 
   
@@ -552,7 +822,7 @@ function findSpecificYear(y){
 
 
 function showHelp(){
-  modalTextEl.style.fontSize = '1.25rem';
+  modalTextEl.style.fontSize = '1.05rem';
   modalHeaderTextEl.textContent = "WELCOME TO M.O.V.I.E.S.!!";
   modalTextEl.textContent = ("So far, 'M.O.V.I.E.S.' " + "has a collection of " + protoMovies.length + " films starting with the year " + earliestYear + " and going thru to " + latestYear + ", including " + oscarWinners + " Oscar winners. You can generate movie initials in one of two ways. Select the 'Random' button to display the initials of one and only one movie. If you select the 'Oscars' button you will get either a set of initials for Oscar nominated films from one randomly selected year, or you will get a set of initials of 5 Oscar winning films from a consecutive 5 year span between " + earliestYear + " and " + latestYear + ", but the order will be jumbled. To take a guess, enter the movie name in the text box and either press the enter key or click 'Sub'. Up to 3 hints are available for each film. These hints can be in the form of a word or short phrase, an audio clip, an image or a short video clip. Another helpful aide is to hover over and/or click on any of the initials displayed. That letter, along with the rest of the initials for the movie it is part of, will change color. When all else fails, you can select the 'Ans' button. Once there, '...' will take you to more info."); 
   modalImgEl.style.display = "none";
@@ -800,7 +1070,7 @@ function  showPics(){
 
 function showAnswer(linenum){
   
-  modalTextEl.style.fontSize = '1.5rem';
+  modalTextEl.style.fontSize = '1.05rem';
   
   modalHeaderTextEl.textContent = "Answer to Movie #" + linenum + " "
   modalTextEl.textContent = "The answer is '" + selectedMovies[linenum-1].title + "' from " + selectedMovies[linenum-1].year + ". In " + selectedMovies[linenum-1].title + ", " +  selectedMovies[linenum-1].syn +   " Directed by " + selectedMovies[linenum-1].director + ". Starring"
