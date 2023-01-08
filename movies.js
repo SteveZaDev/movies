@@ -271,7 +271,7 @@ oscar: "Y"
 {
   year: 1935,
   title: "The 39 Steps",
-  init: "TTS",
+  init: "T3S",
   director: "Alfred Hitchcock",
   stars: ["Robert Donat", "Madeleine Carroll", "Lucie Mannheim"],
   lines: [""],
@@ -347,90 +347,90 @@ oscar: "Y"
   year: 1936,
   title: "Camille",
   init: "C",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "George Cukor",
+  stars: ["Greta Garbo", "Robert Taylor", "Henry Daniell"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["Greta Garbo", "La Traviatta"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "was a version of Alexander Dumas' novel that had inspired Verdi's opera La Traviata. There were a number of silent film versions (and shorts), and many other film variations, including the 21st century musical drama by Baz Luhrmann Moulin Rouge! (2001). However, this 1936 film has always been considered the definitive version, with Greta Garbo's greatest performance in one of the best romantic films of all time.",
+  links: ["https://www.filmsite.org/cami.html"],
   oscar: ""
   },
   {
   year: 1936,
   title: "Dodsworth",
   init: "D",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "William Wyler",
+  stars: ["Walter Huston", "Ruth Chatterton", "David Niven", "Mary Astor"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["https://www.simbasible.com/wp-content/uploads/2019/11/2-17.jpg", "./pics/dods.png"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "mature and intelligent but bittersweet romantic-drama was based upon the 1929 Sinclair Lewis novel. In the opening, self-made millionaire and US auto industrialist husband Sam Dodsworth (Oscar-nominated Walter Huston) was standing at the window of his auto-plant on his last day on the job after selling his business. an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  links: ["https://www.filmsite.org/dods.html"],
   oscar: ""
   },
   {
   year: 1936,
   title: "Modern Times",
   init: "MT",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "Charles Chaplin",
+  stars: ["Charles Chaplin", "Paulette Goddard"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["1930's social commentary","./pics/modern.jpg"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "we saw the last screen appearance of Charlie Chaplin's memorable character, The Little Tramp, coming during the height of the Great Depression. After the successful City Lights (1931), this landmark film was about the dehumanizing and frustrating effects of the machine age - even in the 1930s.",
+  links: ["https://www.imdb.com/title/tt0027977/"],
   oscar: ""
   },
   {
   year: 1936,
   title: "My Man Godfrey",
   init: "MMG",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "Gregory La Cava",
+  stars: ["Carole Lombard", "William Powell", "George Bancroft"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["A 1930's zany comedy", "https://www.gablescinema.com/media/filmassets/slides/My_Man_Godfrey_6.jpg"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "an improbable plot revolves around a socialite's hiring of a hobo-bum to be the family's butler - with romance to follow. In the film's opening, a group of extremely wealthy Park Avenue socialites held a charity scavenger hunt, for unusual and odd items that no one would want. One of the participants, ditzy and scatterbrained blonde heiress Irene Bullock (Carole Lombard), located a 'forgotten man' at an East River dump for her list of odd items. The down-and-out, unshaven, unemployed and homeless bum Godfrey 'Smith Parke (William Powell) agreed to accompany her back to a Waldorf-Astoria hotel ballroom party (for $5 dollars), where she was announced as the winner.",
+  links: ["https://www.imdb.com/title/tt0028010/"],
   oscar: ""
   },
   {
   year: 1936,
   title: "The Petrified Forest",
   init: "TPF",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "Archie Mayo",
+  stars: ["Bette Davis", "Leslie Howard", "Humphrey Bogart"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["https://img.yts.mx/assets/images/movies/the_petrified_forest_1936/large-screenshot1.jpg", "http://4.bp.blogspot.com/-t16GJreuMGs/TwIkqg07OjI/AAAAAAAACK0/zxLY9sXGfkk/s1600/The-Petrified-Forest-15.jpg", "Star making role for one of Hollywoods biggest"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "a trio of main characters was brought together in a run-down, roadside Arizona desert service-station diner-cafe operated by Jason Maple (Porter Hall) near the Petrified Forest National Park - the Black Mesa Bar-B-Q. They included idealistic, penniless, frustrated and disillusioned writer/world traveler and burned-out, British philosophical intellectual Alan Squier (Leslie Howard), the diner owners' idealistic, naive, and culturally-starved daughter-waitress Gabrielle ('Gabby') Maple (Bette Davis) who was an aspiring artist-poet, and brutal, vicious, ruthless, Dillinger-like fugitive gangster Duke Mantee (Humphrey Bogart in his first major, star-making movie role) with his gang.",
+  links: ["https://www.imdb.com/title/tt0028096/?ref_=fn_al_tt_1"],
   oscar: ""
   },
   {
   year: 1936,
   title: "The Plainsman",
   init: "TP",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "Cecil B. DeMille",
+  stars: ["Gary Cooper", "Jean Arthur", "James Ellison", "Charles Bickford"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["DeMille western", "https://ievenn.com/wp-content/uploads/the-plainsman-1936-ievenn-1.jpg"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "With the end of the North American Civil War, the manufacturers of repeating rifles find a profitable means of making money selling the weapons to the North American Indians, using the front man John Lattimer to sell the rifles to the Cheyenne. While traveling in a stagecoach with Calamity Jane and William 'Buffalo Bill' Cody and his young wife Louisa Cody that want to settle down in Hays City managing a hotel, Wild Bill Hickok finds the guide Breezy wounded by arrows and telling that the Indians are attacking a fort using repeating rifles.",
+  links: ["https://www.imdb.com/title/tt0028108/"],
   oscar: ""
   },
   {
@@ -438,44 +438,44 @@ oscar: "Y"
   title: "Sabotage",
   init: "S",
   director: "Alfred Hitchcock",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  stars: ["Sylvia Sidney", "Oskar Homolka", "Desmond Tester"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["./vids/sabotage.mp4", "https://i.servimg.com/u/f10/20/36/34/67/sabota16.jpg"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "paid foreign terrorist Mr. Karl Verloc (Oskar Homolka) was married to young American Mrs. Verloc (Sylvia Sydney, or Sidney) - both were the struggling owners of a London BIJOU cinema-theater, who lived in an apartment above the cinema house. Verloc used his occupation in the movie theater as a front for his subversive activities. His first attempt at causing havoc in London was to sabotage the electricity grid to cause a general blackout.",
+  links: ["https://www.imdb.com/title/tt0028212/"],
   oscar: ""
   },
   {
   year: 1936,
   title: "San Francisco",
   init: "SF",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "W.S. Van Dyke",
+  stars: ["Clark Gable", "Jeanette MacDonald", "Spencer Tracy"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["The first big budget disaster film", "./vids/sfquake.mp4"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "MGM's lavish, big-star production and period musical drama, most noted for its spectacular special effects, was the first big budget disaster film. Set on San Francisco's Barbary Coast in 1906 at the turn of the century, the arrogant Blackie Norton (Clark Gable) owned the bawdy gambling hall and beer garden known as Blackie's Paradise Cafe-Saloon. Blackie hired down-and-out, classically-trained singer Mary Blake (Jeanette MacDonald), the daughter of a Midwestern country minister, to sing in his cabaret establishment, and soon after fell in love with her.",
+  links: ["https://www.imdb.com/title/tt0028216/"],
   oscar: ""
   },
   {
   year: 1936,
   title: "The Story of Louis Pasteur",
   init: "TSOLP",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "William Dieterle",
+  stars: ["Paul Muni", "Josephine Hutchinson", "Anita Louise"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["Best Actor award for the star", "Highly fictionalized bio of famous scientist"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "Best Actor Oscar-winning Paul Muni, who was noted for his many performances in serious film biographies, again starred in this strong character study and historical portrayal of the famous 19th century French scientist, microbiologist, and founder of bacteriology.",
+  links: ["https://www.imdb.com/title/tt0028313/?ref_=nv_sr_srsg_0"],
   oscar: ""
   },
   {
@@ -844,6 +844,7 @@ function showVid(video){
     modalImgEl.style.display = "none";
     modalTextEl.style.display = "none";
     modalVidEl.src=video
+    modalVidEl.autoplay = true;
     modalVidEl.style.display = "block";
     mpopup.style.display = "block";
   }
@@ -898,7 +899,9 @@ function movieClick(m){
   console.log("reached movie click " + m + " name of " + selectedMovies[m].title  )
   let idToGet = 'movie'  + (m+1);
   let initEl = document.getElementById(idToGet)
-  initEl.style.color = initColors[m]
+  initEl.style.color = initColors[m];
+  const audio = new Audio ("./auds/blip.wav");
+  audio.play();
 }
 
 function hint1(movie){
