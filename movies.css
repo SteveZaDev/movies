@@ -4,9 +4,9 @@
 --deepLightPurple: #22254be3;
 --color1: #fffc31;
 --color2: #D8973C;
---color3: #736372;
---color4: #36827F;
---color5: #C6D8FF;
+--color3: #c029b6;
+--color4: #22c9c3;
+--color5: #687fb1;
 }
 
 
@@ -230,7 +230,7 @@ button{
      .mpopup {
       display: none;
       position: fixed;
-      z-index: 3;
+      z-index: 20;
       padding-top: 25px;
       left: 0;
       top: 0;

@@ -85,7 +85,7 @@ oscar: "Y"
     videos: [],
     audios: [],
     syn: "Tarzan's distinctive call was either created by sound recordist Douglas Shearer from various sounds, or it was indeed Johnny Weissmuller doing the yell himself. Co-star Maureen O'Sullivan insisted throughout her life that it was Weissmuller doing the yell without any technical assistance. Johnny Weissmuller explained on the Mike Douglas show that he was the one that did the yell, which he did on the show.",
-    links: ["https://www.imdb.com/title/tt0022958/?ref_=ev_nom"],
+    links: ["https://www.imdb.com/title/tt0023551/?ref_=nv_sr_srsg_2"],
     oscar: ""
     },  
 {
@@ -482,60 +482,60 @@ oscar: "Y"
   year: 1937,
   title: "The Awful Truth",
   init: "TAT",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "Leo McCarey",
+  stars: ["Irene Dunne", "Cary Grant", "Ralph Bellamy"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["One of the earliest scenes was of the divorce proceedings of a distrusting married couple in a courtroom", "http://images2.fanpop.com/images/photos/4800000/The-Awful-Truth-1937-classic-movies-4825843-1596-1179.jpg"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "with rapid-fire, witty and sophisticated dialogue (and much sarcasm), Dunne and Grant each try their best to thwart or sabotage each other's romances and marriage plans with others, since they both had visiting rights; Lucy was determined to spite Jerry although she wasn't that enthusiastic about various suitors, while Jerry felt that her romances with new people were not worthy of her; at the same time, Jerry made engagement arrangements to cause Lucy to attempt to win him back.",
+  links: ["https://www.imdb.com/title/tt0028597/?ref_=nv_sr_srsg_0"],
   oscar: "N"
   },
   {
   year: 1937,
   title: "The Life of Emile Zola",
   init: "TLOEZ",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "William Dieterle",
+  stars: ["Paul Muni", "Gale Sondergaard", "Joseph Schildkraut"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["Best Picture-winning film biography", "First film to receive ten Academy Award nominations", "Dreyfus"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "Zola was celebrated as France's greatest writer-author, social critic, and the champion of the oppressed. He defended and fought for the pardon and restored reputation of French military army officer Capt. Alfred Dreyfus (Joseph Schildkraut), a Jewish officer in the French army who was wrongly-accused (and unjustly court-martialed) on the charge of treason for providing secret information to the Germans. Dreyfus was clearly framed for treason by his superiors and sentenced to a slow death by life imprisonment on Devil's Island.",
+  links: ["https://www.imdb.com/title/tt0029146/?ref_=nv_sr_srsg_0"],
   oscar: "Y"
   },
   {
   year: 1937,
   title: "Captains Courageous",
   init: "CC",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "Victor Fleming",
+  stars: ["Spencer Tracy", "Freddie Bartholomew", "Lionel Barrymore"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["From a Rudyard Kipling story", "https://torontofilmsociety.com/wp-content/uploads/2020/04/Captain-Courageous-1.jpg"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "a spoiled brat falls overboard from a steamship in the 1920s gets picked up by a New England fishing boat, where he's made to earn his keep by joining the crew in their work.",
+  links: ["https://www.imdb.com/title/tt0028691/"],
   oscar: "N"
   },
   {
   year: 1937,
   title: "The Good Earth",
   init: "TGE",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "Sidney Franklin",
+  stars: ["Paul Muni", "Luise Rainer", "Walter Connolly"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["Pearl Buck", "https://www.oscarchamps.com/wp-content/uploads/2015/04/1937-Good-Earth-The-02.jpg"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "married Chinese farmers Wang and O-Lan initially experience success, their lives are complicated by declining fortunes and lean times, as well as the arrival of the beautiful young Lotus.",
+  links: ["https://www.imdb.com/title/tt0028944/?ref_=nv_sr_srsg_0"],
   oscar: "N"
   },
   {
@@ -543,14 +543,14 @@ oscar: "Y"
   title: "Lost Horizon",
   init: "LH",
   director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  stars: ["Ronald Coleman", "Jane Wyatt", "Edward Everett Horton", "Sam Jaffe"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["./vids/losthorizon.mp4"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "in the film's opening, escapees and refugees were fleeing from a Chinese revolution in Bakul by boarding boarded a plane bound for Shanghai. The aircraft crash-landed, and five survivors were led through the icy Himalayans by Chinese monk Chang (H. B. Warner) to a magical enchanted paradise - a hidden Tibetan utopia at the top of the world named Shangri-La. There in the peaceful valley, war and death and financial panic were unknown, people lived almost forever (time had stopped), and everyone followed the law of 'Be kind.' Shangri-La's wisest man was the High Lama (Sam Jaffe), originally known as missionary Belgian priest, Father Perrault, who wished to have one of the group's members, British diplomat Robert Conway (Ronald Colman) become his successor.",
+  links: ["https://www.imdb.com/title/tt0029162/?ref_=fn_al_tt_2"],
   oscar: "N"
   },
   {
@@ -633,7 +633,8 @@ oscar: "Y"
 const dec1920s=["./1920s/nilsasther.jpg","./1920s/valentino.jpg","./1920s/garbo.jpg","./1920s/marypickford.jpg","./1920s/fairbanks.jpg","./1920s/gaynor.jpg"]
 
 // ARRAY OF 5 COLORS FOR THE INITIALS
-let initColors=['#fffc31', '#D8973C', '#736372', '#36827F', '#C6D8FF']
+let initColors=['#fffc31', '#D8973C', '#c029b6', '#22c9c3', '#687fb1']
+
 
 // Select modal
 let mpopup = document.getElementById('mpopupBox');
@@ -643,6 +644,8 @@ let modalImgEl = document.getElementById('modal-img');
 let modalVidEl = document.getElementById('modal-video');
 let modalHeaderTextEl = document.getElementById('modal-header-txt');
 
+
+let sound=false;
 
 
 // GET IDS OF HINTS FOR EACH LINE
@@ -673,6 +676,7 @@ for(i=0; i<protoMovies.length; i++){
   }
 }
 
+let soundPlayer = "";
 
 
 let input = document.getElementById("input1");
@@ -873,6 +877,12 @@ function showVid(video){
 close.onclick = function() {
   mpopup.style.display = "none";
   modalVidEl.pause()
+  if (sound===true){
+  if (soundPlayer){
+    soundPlayer.play();
+    }
+  }  
+
 };
 
 
@@ -910,10 +920,16 @@ function hint1(movie){
   let hint = (selectedMovies[movie-1].hints[0]);
   let last3 = (hint.slice(hint.length - 3));
   if ((last3==="mp3")||(last3==="m4a")){
+    if (soundPlayer){
+      soundPlayer.pause();
+      }
     playAudio(hint)
     return
   } 
   if (last3==="mp4"){
+    if (soundPlayer){
+      soundPlayer.pause();
+      }
     showVid(hint)
     return
   }
@@ -927,15 +943,22 @@ function hint1(movie){
 
 
 function hint2(movie){
+
   modalTextEl.style.fontSize = '1.25rem';
   modalHeaderTextEl.textContent = "Hint #2" 
   let hint = (selectedMovies[movie-1].hints[1]);
   let last3 = (hint.slice(hint.length - 3));
   if ((last3==="mp3")||(last3==="m4a")){
+    if (soundPlayer){
+      soundPlayer.pause();
+      }
     playAudio(hint)
     return
   } 
   if (last3==="mp4"){
+    if (soundPlayer){
+      soundPlayer.pause();
+      }
     showVid(hint)
     return
   }
@@ -951,15 +974,22 @@ function hint2(movie){
 
 
 function hint3(movie){
+
   modalTextEl.style.fontSize = '1.25rem';
   modalHeaderTextEl.textContent = "Hint #3" 
   let hint = (selectedMovies[movie-1].hints[2]);
   let last3 = (hint.slice(hint.length - 3));
   if ((last3==="mp3")||(last3==="m4a")){
+    if (soundPlayer){
+      soundPlayer.pause();
+      }
     playAudio(hint)
     return
   } 
   if (last3==="mp4"){
+    if (soundPlayer){
+      soundPlayer.pause();
+      }
     showVid(hint)
     return
   }
@@ -979,6 +1009,16 @@ function random(){
   buildInitSpan()
   setSpan()
   formatHintIcons()
+  if (sound===false){
+    return;
+  }
+  if (soundPlayer===""){
+  soundPlayer = new Audio ("./auds/bgmusic.mp3");
+  soundPlayer.loop = true;
+  soundPlayer.volume = 0.065  ;
+  soundPlayer.currentTime = 1;
+  }
+  playMusic();
 }
 
 function oscars(){
@@ -989,9 +1029,33 @@ function oscars(){
   }
   else{
     winners();
-  }  
+  } 
+  if (sound===false){
+    return;
+  }
+  if (soundPlayer===""){
+    soundPlayer = new Audio ("./auds/bgmusic.mp3");
+    soundPlayer.loop = true;
+    soundPlayer.volume = 0.1  ;
+    soundPlayer.currentTime = 1;
+    }
+  playMusic();
 }
 
+function music(){
+  console.log("entered music toggle")
+  sound = !sound;
+  if (sound===false){
+    if (soundPlayer){
+      soundPlayer.pause();
+    }
+  }
+  if (sound===true){
+    if (soundPlayer){
+      soundPlayer.play();
+    }
+  }
+}
 
 function year(){
   console.log("entered year function")
@@ -1040,6 +1104,16 @@ function submit(linenum){
   mpopup.style.display = "block";
   modalTextEl.style.display = "block";
 }
+
+
+
+
+function playMusic(){
+  soundPlayer.play();
+}
+
+
+
 
 function  showPics(){
 
