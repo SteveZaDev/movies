@@ -557,47 +557,167 @@ oscar: "Y"
   year: 1937,
   title: "The Prisoner of Zenda",
   init: "TPOZ",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "John Cromwell",
+  stars: ["Ronald Coleman", "Madeleine Carroll", "David Niven", "Douglas Fairbanks Jr.", "Raymond Massey"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["./auds/zenda37.m4a", "./pics/zenda37.jpg", "Ruritania"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "the events occur in the small Central European (Balkan) country of Ruritania (mythical). An Englishman commoner, Major Rudolf Rassendyl (Ronald Colman) was on holiday there in mid-1897. He happened to meet his exact double - look-alike King Rudolph V (also Ronald Colman), his distant half-brother who was about to be coronated. Rudolf arrived by the Orient Express in Strelsau to fish - not to attend the coronation: ('And that's what I came for, fishing, not coronations. I dont like coronations and I do like fishing'). It was recognized by the King's loyal advisors: Capt. Fritz von Tarlenheim (David Niven) and Colonel Zapt (C. Aubrey Smith), that Rudolf closely resembled the monarch. The dissolute King invited Rudolf to his hunting lodge for drinks and toasts - where it was revealed that there was enmity between the King and his half-brother Duke Michael (Raymond Massey), known as 'Black Michael,' with a band of rebels.",
+  links: ["https://www.imdb.com/title/tt0029442/?ref_=nv_sr_srsg_0"],
   oscar: ""
   },
   {
   year: 1937,
   title: "Stella Dallas",
   init: "SD",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "King Vidor",
+  stars: ["Barbara Stanwyck", "John Boles", "Anne Shirley"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["Working class girl marries high-end heir", "./pics/stella.png"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "King Vidor's classic, best-known and popular dramatic tearjerker/soap-opera originated as the 1923 best-selling novel by Olive Higgins Prouty, then as a play (without a Broadway run), and also as a daytime radio serial that played for 18 years.",
+  links: ["https://www.imdb.com/title/tt0029608/?ref_=fn_al_tt_1"],
   oscar: ""
   },
   {
   year: 1937,
   title: "Topper",
   init: "T",
-  director: "Frank Capra",
-  stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
+  director: "Norman Z. McLeod",
+  stars: ["Cary Grant", "Constance Bennett", "Roland Young"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["Was turned into a 1950s TV show", "./pics/topper.png"],
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
-  links: ["https://www.imdb.com/title/tt0027996/?ref_=ev_nom"],
+  syn: "a fun-loving couple, finding that they died and are now ghosts, decide to shake up the stuffy lifestyle of a friend of theirs.",
+  links: ["https://www.imdb.com/title/tt0029682/?ref_=fn_al_tt_1"],
   oscar: ""
-  }       
+  },
+  {
+  year: 1938,
+  title: "You Cant Take It with You",
+  init: "YCTIWY",
+  director: "Frank Capra",
+  stars: ["James Stewart", "Jean Arthur", "Lionel Barrymore", "Edward Arnold"],
+  lines: [""],
+  hints: ["./pics/cant.png", "Late 30s Best film and director winner", "./pics/cant.jpg"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "the son of a snobbish Wall Street banker becomes engaged to a woman from a good-natured but decidedly eccentric family, not realizing that his father is trying to force her family from their home for a real estate development.",
+  links: ["https://www.imdb.com/title/tt0030993/?ref_=tt_mv_close"],
+  oscar: "Y"
+  },
+  {
+  year: 1938,
+  title: "Boys Town",
+  init: "BT",
+  director: "Norman Taurog",
+  stars: ["Spencer Tracy", "Mickey Rooney", "Henry Hull"],
+  lines: [""],
+  hints: ["Father Flanagan", "./pics/boystown.png"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "a death row prisoner tells him he wouldn't have led a life of crime if only he had had one friend as a child, Father Edward Flanagan decides to start a home for young boys.",
+  links: ["https://www.imdb.com/title/tt0029942/?ref_=fn_al_tt_1"],
+  oscar: "N"
+  },
+  {
+  year: 1938,
+  title: "Jezebel",
+  init: "J",
+  director: "William Wyler",
+  stars: ["Bette Davis", "Henry Fonda", "George Brent", "Donald Crisp"],
+  lines: [""],
+  hints: ["Julie Marsden", "./pics/jez.png"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "in 1850s Louisiana, a free-spirited Southern belle loses her fiancé due to her stubborn vanity and pride, and vows to win him back.",
+  links: ["https://www.imdb.com/title/tt0030287/?ref_=nv_sr_srsg_0"],
+  oscar: "N"
+  },
+  {
+  year: 1938,
+  title: "Alexanders Ragtime Band",
+  init: "ARB",
+  director: "Henry King",
+  stars: ["Tyrone Power", "Alice Faye", "Don Ameche"],
+  lines: [""],
+  hints: ["./pics/ragtime.png", "./pics/ragtime2.png", "Come on and hear! Come on and hear! It's the best band in the land!"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "this send-up of ragtime song and dance begins in 1915 San Francisco when society boy Roger Grant decides to pursue popular rather than serious music.",
+  links: ["https://www.imdb.com/title/tt0029852/?ref_=nv_sr_srsg_1"],
+  oscar: "N"
+  },
+  {
+  year: 1938,
+  title: "The Adventures of Robin Hood",
+  init: "TAORH",
+  director: "Michael Curtiz",
+  stars: ["Errol Flynn", "Olivia DeHavilland", "Claude Rains", "Basil Rathbone"],
+  lines: [""],
+  hints: ["./auds/robinhood.m4a", "./vids/robinhood.mp4", "./auds/robinhood2.m4a"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "when Prince John and the Norman Lords begin oppressing the Saxon masses in King Richard's absence in 1190s England, a Saxon lord fights back as the outlaw leader of a resistance movement.",
+  links: ["https://www.imdb.com/video/vi324863001/?ref_=nv_sr_srsg_1"],
+  oscar: "N"
+  },
+  {
+  year: 1938,
+  title: "Bringing Up Baby",
+  init: "BUB",
+  director: "Norman Z. McLeod",
+  stars: ["Cary Grant", "Constance Bennett", "Roland Young"],
+  lines: [""],
+  hints: ["Was turned into a 1950s TV show", "./pics/topper.png"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "a fun-loving couple, finding that they died and are now ghosts, decide to shake up the stuffy lifestyle of a friend of theirs.",
+  links: ["https://www.imdb.com/title/tt0029682/?ref_=fn_al_tt_1"],
+  oscar: ""
+  },
+  {
+  year: 1938,
+  title: "Holiday",
+  init: "H",
+  director: "Norman Z. McLeod",
+  stars: ["Cary Grant", "Constance Bennett", "Roland Young"],
+  lines: [""],
+  hints: ["Was turned into a 1950s TV show", "./pics/topper.png"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "a fun-loving couple, finding that they died and are now ghosts, decide to shake up the stuffy lifestyle of a friend of theirs.",
+  links: ["https://www.imdb.com/title/tt0029682/?ref_=fn_al_tt_1"],
+  oscar: ""
+  },
+  {
+  year: 1938,
+  title: "The Lady Vanishes",
+  init: "TLV",
+  director: "Norman Z. McLeod",
+  stars: ["Cary Grant", "Constance Bennett", "Roland Young"],
+  lines: [""],
+  hints: ["Was turned into a 1950s TV show", "./pics/topper.png"],
+  pics: [],
+  videos: [''],
+  audios: [""],
+  syn: "a fun-loving couple, finding that they died and are now ghosts, decide to shake up the stuffy lifestyle of a friend of theirs.",
+  links: ["https://www.imdb.com/title/tt0029682/?ref_=fn_al_tt_1"],
+  oscar: ""
+  }
   
 
   
@@ -645,7 +765,7 @@ let modalVidEl = document.getElementById('modal-video');
 let modalHeaderTextEl = document.getElementById('modal-header-txt');
 
 
-let sound=false;
+let sound=true;
 
 
 // GET IDS OF HINTS FOR EACH LINE
@@ -677,6 +797,10 @@ for(i=0; i<protoMovies.length; i++){
 }
 
 let soundPlayer = "";
+soundPlayer = new Audio ("./auds/bgmusic.mp3");
+soundPlayer.loop = true;
+soundPlayer.volume = 0.065  ;
+soundPlayer.currentTime = 1;
 
 
 let input = document.getElementById("input1");
@@ -827,7 +951,7 @@ function findSpecificYear(y){
 
 function showHelp(){
   modalTextEl.style.fontSize = '1.05rem';
-  modalHeaderTextEl.textContent = "WELCOME TO M.O.V.I.E.S.!!";
+  modalHeaderTextEl.textContent = "WELCOME TO M.O.V.I.E.S.";
   modalTextEl.textContent = ("So far, 'M.O.V.I.E.S.' " + "has a collection of " + protoMovies.length + " films starting with the year " + earliestYear + " and going thru to " + latestYear + ", including " + oscarWinners + " Oscar winners. You can generate movie initials in one of two ways. Select the 'Random' button to display the initials of one and only one movie. If you select the 'Oscars' button you will get either a set of initials for Oscar nominated films from one randomly selected year, or you will get a set of initials of 5 Oscar winning films from a consecutive 5 year span between " + earliestYear + " and " + latestYear + ", but the order will be jumbled. To take a guess, enter the movie name in the text box and either press the enter key or click 'Sub'. Up to 3 hints are available for each film. These hints can be in the form of a word or short phrase, an audio clip, an image or a short video clip. Another helpful aide is to hover over and/or click on any of the initials displayed. That letter, along with the rest of the initials for the movie it is part of, will change color. When all else fails, you can select the 'Ans' button. Once there, '...' will take you to more info."); 
   modalImgEl.style.display = "none";
   modalVidEl.style.display = "none";
@@ -1090,12 +1214,14 @@ function submit(linenum){
   modalHeaderTextEl.textContent = "Your Answer" 
   if(upperAns === upperCorrect){
     modalTextEl.textContent = "You are correct!!!"
-    const audio = new Audio ("./auds/tada.mp3");
+    const audio = new Audio ("./auds/approved.wav");
     audio.play(); 
     showAnswer(linenum)
   }
   else
   {
+    const audio = new Audio ("./auds/nope.wav");
+    audio.play(); 
     modalTextEl.textContent = userAns + " is not correct, Try again"
   }
 
@@ -1112,6 +1238,19 @@ function playMusic(){
   soundPlayer.play();
 }
 
+
+let btn = document.querySelector(".toggle");
+let icon = btn.querySelector(".fa-volume-up");
+
+btn.onclick = function (){
+    music();
+    if(icon.classList.contains("fa-volume-up")){
+        icon.classList.replace("fa-volume-up", "fa-volume-off");
+    }
+    else{
+        icon.classList.replace("fa-volume-off", "fa-volume-up");
+    }
+}
 
 
 
@@ -1141,7 +1280,7 @@ function  showPics(){
 
   //  document.getElementById('container').appendChild(img);
     containerEl.appendChild(img);
-}
+  }
 }
 
 
@@ -1159,7 +1298,6 @@ function showAnswer(linenum){
     }
     modalTextEl.textContent = modalTextEl.textContent + " " + selectedMovies[linenum-1].stars[i];
   }
-
 
         
                 // Create anchor element.

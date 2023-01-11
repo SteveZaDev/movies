@@ -79,7 +79,7 @@ h1{
 }
 
 #initials{
-  font-size: 4.65vw;
+  font-size: 3.75vw;
   letter-spacing: 2px;
   text-shadow: 4px 4px 5px rgba(0,0,0,.5);
   z-index: 2;
@@ -226,6 +226,21 @@ button{
 
 
 
+.toggle i{
+  font-size: 2rem;
+  color: white;
+  position: absolute;
+  top:  23px;
+  left: 35px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  z-index: 15;
+  transition: 0.2s;
+}
+
+
+
      /* MODAL POPUP CSS  */
      .mpopup {
       display: none;
@@ -322,6 +337,9 @@ button{
       font-size: 7.0vw;
       letter-spacing: 1px;
     }    
+    .input{
+      margin-right: .25rem;
+    }
   }
 
   @media (max-height:600px){

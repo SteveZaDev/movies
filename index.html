@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Movie Games</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="./movies.css">
   <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Sancreek&display=swap" rel="stylesheet">
 </head>
@@ -158,8 +159,7 @@
         </div>
 
         <div class="btn-grp">
-          <button onclick="music()">Music?</button>
-          <button onclick="random()">Random</button>
+           <button onclick="random()">Random</button>
           <button onclick="oscars()">Oscars</button>
         </div> 
 
@@ -173,6 +173,8 @@
     <button id="help-btn" onclick="showHelp()">?</button>
 
     <button id="showpics" onclick="showPics()">Pics</button>
+
+    <div class="toggle"><i class="fa fa-volume-up"></i></div>
     
   </main>
 
@@ -189,9 +191,9 @@
       </div>
       <div class="modal-body">
         <p id="modal-txt"></p>
-        <img id="modal-img" src="./pics/strand.jpg" alt="" width="320" height="240">
-        <video id="modal-video" controls width="300">
-           <source src="./vids/Ben Hur opening.mp4">
+        <img id="modal-img" src="" alt="" width="280" height="210">
+        <video id="modal-video" controls width="280">
+           <source src="">
         </video>
       </div>
       <!-- <div class="modal-footer">
