@@ -1269,7 +1269,9 @@ function submit(linenum){
     const audio = new Audio ("./auds/nope.wav");
     audio.play(); 
     modalTextEl.textContent = userAns + " is not correct, Try again"
+    modalTextEl.style.fontSize = '1.15rem';
   }
+
 
   modalImgEl.style.display = "none";
   modalVidEl.style.display = "none";
@@ -1332,7 +1334,7 @@ function  showPics(){
 
 function showAnswer(linenum){
   
-  modalTextEl.style.fontSize = '1.05rem';
+  modalTextEl.style.fontSize = '1.15rem';
   
   modalHeaderTextEl.textContent = "Answer to Movie #" + linenum + " "
   modalTextEl.textContent = "The answer is '" + selectedMovies[linenum-1].title + "' from " + selectedMovies[linenum-1].year + ". In " + selectedMovies[linenum-1].title + ", " +  selectedMovies[linenum-1].syn +   " Directed by " + selectedMovies[linenum-1].director + ". Starring"
