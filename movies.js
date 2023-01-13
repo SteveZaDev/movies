@@ -134,6 +134,36 @@ oscar: "Y"
   oscar: ""
 },
 {
+  year: 1933,
+  title: "The Invisible Man",
+  init: "TIM",
+  director: "James Whale",
+  stars: ["Claude Rains", "Gloria Stuart", "William Harrigan"],
+  lines: [""],
+  hints: ["", "./pics/invisible.png", "H.G. Wells"],
+  pics: [],
+  videos: [],
+  audios: [],
+  syn: "an obsessed mad scientist Jack Griffin (Claude Rains in his film debut) created a chemical formula compound that made him irreversibly invisible (with spectacular special effects), without any counter-agent. At first, the effects were comedic, but the serum slowly turned him into an insane megalomaniac lusting for power, and he wreaked havoc on a British country village.",
+  links: ["https://www.imdb.com/title/tt0024184/?ref_=fn_al_tt_2"],
+  oscar: ""
+},
+{
+  year: 1933,
+  title: "Dinner at Eight",
+  init: "DAE",
+  director: "George Cukor",
+  stars: ["Marie Dressler", "John Barrymore", "Wallace Beery", "Jean Harlow", "Lionel Barrymore"],
+  lines: [""],
+  hints: ["Vignettes and mini-episodes tell the story", "Same formula as the MGMs previous year 'Grand Hotel'", "Two Barrymore brothers"],
+  pics: [],
+  videos: [],
+  audios: [],
+  syn: "based on the popular, dialogue-rich Broadway hit by George S. Kaufman and Edna Ferber, followed the successful pattern of MGM's previous year's Best Picture winner Grand Hotel (1932). It was studded with a tremendous ensemble cast of stars and filled with choice lines of dialogue. The plot revolved around various relationships between the characters before a dinner party party. A social-climbing, flighty Park Avenue snob Millicent Jordan (Billie Burke) was hosting a formal 'dinner at eight' party in Manhattan during the height of the Depression, and invited an assortment of high-society guests.",
+  links: ["https://www.imdb.com/title/tt0023948/?ref_=fn_al_tt_1"],
+  oscar: ""
+},
+{
   year: 1934,
   title: "It Happened One Night",
   init: "IHON",
@@ -946,6 +976,22 @@ function findSpecificYear(y){
       }
     }
   }
+}
+
+
+
+
+function showTestItems(){
+  console.log("number of movies = " + protoMovies.length)
+  for (i=0; i<protoMovies.length; i++){
+    if (protoMovies[i].oscar === "T"){
+      console.log (protoMovies[i].title)
+        selectedMovies.push(protoMovies[i]);
+    }
+  }
+  buildInitSpan()
+  setSpan()
+  formatHintIcons()
 }
 
 
