@@ -20,7 +20,7 @@ const protoMovies = [{
   director: "Harry Beaumont",
   stars: ["Anita Page", "Bessie Love", "Charles King"],
   lines: [""],
-  hints: ["2nd Oscar winning film"],
+  hints: ["2nd film to win an Oscar", "The title contains the name of a famous NYC street"],
   pics: [],
   videos: ['./vids/test.mp4'],
   audios: ["./auds/boo.mp3"],
@@ -80,7 +80,7 @@ oscar: "Y"
     director: "W.S. Van Dyke",
     stars: ["Johnny Weissmuller", "Maureen O'Sullivan", "C. Aubrey Smith", "Neil Hamilton"],
     lines: [""],
-    hints: ["./pics/tarzan1.jpg", "./pics/tarzan2.jpg"],
+    hints: ["Set in Africa", "./pics/tarzan1.jpg", "./pics/tarzan2.jpg"],
     pics: [],
     videos: [],
     audios: [],
@@ -140,7 +140,7 @@ oscar: "Y"
   director: "James Whale",
   stars: ["Claude Rains", "Gloria Stuart", "William Harrigan"],
   lines: [""],
-  hints: ["", "./pics/invisible.png", "H.G. Wells"],
+  hints: ["Dont see much of the star in this film", "./pics/invisible.png", "H.G. Wells"],
   pics: [],
   videos: [],
   audios: [],
@@ -155,7 +155,7 @@ oscar: "Y"
   director: "George Cukor",
   stars: ["Marie Dressler", "John Barrymore", "Wallace Beery", "Jean Harlow", "Lionel Barrymore"],
   lines: [""],
-  hints: ["Vignettes and mini-episodes tell the story", "Same formula as the MGMs previous year 'Grand Hotel'", "Two Barrymore brothers"],
+  hints: ["Vignettes and mini-episodes tell the story", "Same formula as the MGMs previous year 'Grand Hotel'", "Two Barrymore brothers, eating"],
   pics: [],
   videos: [],
   audios: [],
@@ -170,7 +170,7 @@ oscar: "Y"
   director: "Frank Capra",
   stars: ["Clark Gable", "Claudette Colbert"],
   lines: [""],
-  hints: ["Capra romantic comedy", "Gable"],
+  hints: ["Capra romantic comedy", "A reporter and an heiress", "Gable"],
   pics: [],
   videos: ['./vids/test.mp4'],
   audios: ["./auds/boo.mp3"],
@@ -185,7 +185,7 @@ oscar: "Y"
   director: "W. S. Van Dyke",
   stars: ["William Powell", "Myrna Loy"],
   lines: [""],
-  hints: ["Light Capra comedy", "./pics/asta.jpg"],
+  hints: ["Light Capra comedy", "First of several in a series", "./pics/asta.jpg"],
   pics: [],
   videos: [''],
   audios: [""],
@@ -200,7 +200,7 @@ oscar: "Y"
   director: "Sidney Franklin",
   stars: ["Norma Shearer", "Frederick March", "Charles Laughton"],
   lines: [""],
-  hints: ["1930's", "Famous Poetic Family", "./pics/barrets.jpg"],
+  hints: ["Made in the 1930's", "Famous 19th century Poetic Family", "./pics/barrets.jpg"],
   pics: [],
   videos: [''],
   audios: [""],
@@ -230,7 +230,7 @@ oscar: "Y"
   director: "Rowland V. Lee",
   stars: ["Robert Donat", "Elissa Landi", "Louis Calhern"],
   lines: [""],
-  hints: ["./pics/cristo.png", "REVENGE!"],
+  hints: ["./pics/cristo.png", "./vids/cristo.mp4" ,"REVENGE!"],
   pics: [],
   videos: [''],
   audios: [""],
@@ -275,7 +275,7 @@ oscar: "Y"
   director: "Richard Boleslawski",
   stars: ["Frederic March", "Charles Laughton", "Cedrick Hardwick"],
   lines: [""],
-  hints: ["From a famous 19th Century novel", "A later musical hit"],
+  hints: ["From a famous 19th Century novel", "./vids/lesmis.mp4", "A later musical hit"],
   pics: [],
   videos: [''],
   audios: [""],
@@ -333,9 +333,9 @@ oscar: "Y"
   title: "A Tale of Two Cities",
   init: "ATOTC",
   director: "Jack Conway",
-  stars: ["Ronald Coleman", "Elizabeth Allan", "Edna May Oliver"],
+  stars: ["Ronald Coleman", "Elizabeth Allan", "Edna May Oliver", "Basil Rathbone"],
   lines: [""],
-  hints: ["From a famous 19th Century novel", "./pics/twocities.png"],
+  hints: ["From a famous 19th Century novel", "./pics/twocities.png", "./vids/tale.mp4"],
   pics: [],
   videos: [''],
   audios: [""],
@@ -350,7 +350,7 @@ oscar: "Y"
   director: "Frank Capra",
   stars: ["Gary Cooper", "Jean Arthur", "George Bancroft"],
   lines: [""],
-  hints: ["./pics/deeds.png", "./auds/deeds.m4a"],
+  hints: ["./pics/deeds.png", "./auds/deeds.m4a", "A large fortune"],
   pics: [],
   videos: [''],
   audios: [""],
@@ -380,7 +380,7 @@ oscar: "Y"
   director: "George Cukor",
   stars: ["Greta Garbo", "Robert Taylor", "Henry Daniell"],
   lines: [""],
-  hints: ["Greta Garbo", "La Traviatta"],
+  hints: ["Greta Garbo", "La Traviatta", "From a Dumas novel"],
   pics: [],
   videos: [''],
   audios: [""],
@@ -399,7 +399,7 @@ oscar: "Y"
   pics: [],
   videos: [''],
   audios: [""],
-  syn: "mature and intelligent but bittersweet romantic-drama was based upon the 1929 Sinclair Lewis novel. In the opening, self-made millionaire and US auto industrialist husband Sam Dodsworth (Oscar-nominated Walter Huston) was standing at the window of his auto-plant on his last day on the job after selling his business. an unassuming greeting card poet from a small town in Vermont heads to New York City upon inheriting a massive fortune and is immediately hounded by those who wish to take advantage of him.",
+  syn: "mature and intelligent but bittersweet romantic-drama was based upon the 1929 Sinclair Lewis novel. In the opening, self-made millionaire and US auto industrialist husband Sam Dodsworth (Oscar-nominated Walter Huston) was standing at the window of his auto-plant on his last day on the job after selling his business.",
   links: ["https://www.filmsite.org/dods.html"],
   oscar: ""
   },
@@ -892,6 +892,8 @@ function buildInitSpan(){
     movieInitialsSpan = movieInitialsSpan + "</span>"
     console.log(movieInitialsSpan)
     }
+    console.log("Text Width: of " + selectedMovies[0].init + " = " + displayTextWidth(selectedMovies[0].init, "1rem georgia"));
+    initialsEl.style.fontSize = '3.55vw';
 }  
 
 function formatHintIcons(){
@@ -1373,3 +1375,14 @@ function showAnswer(linenum){
   mpopup.style.display = "block";
   modalTextEl.style.display = "block";
 }
+
+
+
+function displayTextWidth(text, font) {
+  let canvas = displayTextWidth.canvas || (displayTextWidth.canvas = document.createElement("canvas"));
+  let context = canvas.getContext("2d");
+  context.font = font;
+  let metrics = context.measureText(text);
+  return metrics.width;
+}
+console.log("Text Width: " + displayTextWidth("This is demo text!", "italic 19pt verdana")); //
