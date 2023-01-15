@@ -893,7 +893,7 @@ function buildInitSpan(){
     console.log(movieInitialsSpan)
     }
     console.log("Text Width: of " + selectedMovies[0].init + " = " + displayTextWidth(selectedMovies[0].init, "1rem georgia"));
-    initialsEl.style.fontSize = '3.55vw';
+ //   initialsEl.style.fontSize = '3.55vw';
 }  
 
 function formatHintIcons(){
