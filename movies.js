@@ -1088,7 +1088,7 @@ function movieClick(m){
 
 function hint1(movie){
   modalTextEl.style.fontSize = '1.25rem';
-  modalHeaderTextEl.textContent = "Hint #1" 
+  modalHeaderTextEl.textContent = "Movie " + movie + " Hint #1"  
   let hint = (selectedMovies[movie-1].hints[0]);
   let last3 = (hint.slice(hint.length - 3));
   if ((last3==="mp3")||(last3==="m4a")){
@@ -1117,7 +1117,7 @@ function hint1(movie){
 function hint2(movie){
 
   modalTextEl.style.fontSize = '1.25rem';
-  modalHeaderTextEl.textContent = "Hint #2" 
+  modalHeaderTextEl.textContent = "Movie " + movie + " Hint #2" 
   let hint = (selectedMovies[movie-1].hints[1]);
   let last3 = (hint.slice(hint.length - 3));
   if ((last3==="mp3")||(last3==="m4a")){
@@ -1148,7 +1148,7 @@ function hint2(movie){
 function hint3(movie){
 
   modalTextEl.style.fontSize = '1.25rem';
-  modalHeaderTextEl.textContent = "Hint #3" 
+  modalHeaderTextEl.textContent = "Movie " + movie + " Hint #3" 
   let hint = (selectedMovies[movie-1].hints[2]);
   let last3 = (hint.slice(hint.length - 3));
   if ((last3==="mp3")||(last3==="m4a")){
