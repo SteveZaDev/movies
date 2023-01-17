@@ -747,7 +747,277 @@ oscar: "Y"
   syn: "In an interview with Peter Bogdanovich, Alfred Hitchcock revealed that this movie was inspired by a legend of an Englishwoman who went with her daughter to the Palace Hotel in Paris in the 1880s, at the time of the Great Exposition: 'The woman was taken sick and they sent the girl across Paris to get some medicine in a horse-vehicle, so it took about four hours. When she came back she asked, 'How's my mother?' 'What mother?' 'My mother. She's here, she's in her room. Room 22.' They go up there. Different room, different wallpaper, everything. And the payoff of the whole story is, so the legend goes, that the woman had bubonic plague and they dared not let anybody know she died, otherwise all of Paris would have emptied.' The urban legend, known as the Vanishing Hotel Room, also formed the basis of one segment of the German portmanteau film Eerie Tales (1919), So Long at the Fair (1950) (in which the missing person was the young woman's brother as opposed to her mother) and Alfred Hitchcock Presents: Into Thin Air (1955), starring Hitchcock's daughter Patricia Hitchcock.",
   links: ["https://www.imdb.com/title/tt0030341/?ref_=nv_sr_srsg_3"],
   oscar: ""
-  }
+},
+{
+year: 1939,
+title: "Gone With the Wind",
+init: "GWTW",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: "Y"
+},
+{
+year: 1939,
+title: "Mr. Smith Goes to Washington",
+init: "MSGTW",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: "N"
+},
+{
+year: 1939,
+title: "The Wizard of Oz",
+init: "TWOO",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: "N"
+},
+{
+year: 1939,
+title: "Dark Victory",
+init: "DV",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: "N"
+},
+{
+year: 1939,
+title: "Stagecoach",
+init: "S",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: "N"
+},
+{
+year: 1939,
+title: "Goodbye Mr. Chips",
+init: "GMC",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "Of Mice and Men",
+init: "OMAM",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "Ninotchka",
+init: "N",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "Wuthering Heights",
+init: "WH",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "Beau Geste",
+init: "BG",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "Destry Rides Again",
+init: "DRA",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "Drums Along the Mohawk",
+init: "DATM",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "The Four Feathers",
+init: "TFF",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "Gunga Din",
+init: "GD",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "The Hunchback of Notre Dame",
+init: "THOND",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "Only Angels Have Wings",
+init: "OAHW",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "Son of Frankenstein",
+init: "SOF",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+},
+{
+year: 1939,
+title: "Young Mr. Lincoln",
+init: "YML",
+director: "George Cukor",
+stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+lines: [""],
+hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+pics: [],
+videos: [''],
+audios: [""],
+syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
+links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+oscar: ""
+}
   
 
   
@@ -1335,7 +1605,8 @@ function  showPics(){
 
 
 function showAnswer(linenum){
-  
+
+
   modalTextEl.style.fontSize = '1.15rem';
   
   modalHeaderTextEl.textContent = "Answer to Movie #" + linenum + " "
@@ -1369,6 +1640,15 @@ function showAnswer(linenum){
                 // Append the anchor element to the body.
           //      mpopupBodyEl.appendChild(a); 
                 modalHeaderTextEl.appendChild(a)
+
+                a.addEventListener("click", () => {
+                  if (sound===true){
+                    if (soundPlayer){
+                      soundPlayer.pause();
+                      }
+                    }  
+                });
+                
   modalTextEl.textContent = modalTextEl.textContent + "."
   modalImgEl.style.display = "none";
   modalVidEl.style.display = "none";
@@ -1386,3 +1666,5 @@ function displayTextWidth(text, font) {
   return metrics.width;
 }
 console.log("Text Width: " + displayTextWidth("This is demo text!", "italic 19pt verdana")); //
+
+
