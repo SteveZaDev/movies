@@ -747,7 +747,8 @@ oscar: "Y"
   syn: "In an interview with Peter Bogdanovich, Alfred Hitchcock revealed that this movie was inspired by a legend of an Englishwoman who went with her daughter to the Palace Hotel in Paris in the 1880s, at the time of the Great Exposition: 'The woman was taken sick and they sent the girl across Paris to get some medicine in a horse-vehicle, so it took about four hours. When she came back she asked, 'How's my mother?' 'What mother?' 'My mother. She's here, she's in her room. Room 22.' They go up there. Different room, different wallpaper, everything. And the payoff of the whole story is, so the legend goes, that the woman had bubonic plague and they dared not let anybody know she died, otherwise all of Paris would have emptied.' The urban legend, known as the Vanishing Hotel Room, also formed the basis of one segment of the German portmanteau film Eerie Tales (1919), So Long at the Fair (1950) (in which the missing person was the young woman's brother as opposed to her mother) and Alfred Hitchcock Presents: Into Thin Air (1955), starring Hitchcock's daughter Patricia Hitchcock.",
   links: ["https://www.imdb.com/title/tt0030341/?ref_=nv_sr_srsg_3"],
   oscar: ""
-},
+}
+/*,
 {
 year: 1939,
 title: "Gone With the Wind",
@@ -1021,7 +1022,7 @@ oscar: ""
   
 
   
-  /*,
+  ,
 {
   year: 1957,
   title: "Bridge on the River Kwai",
