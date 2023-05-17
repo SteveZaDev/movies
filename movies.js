@@ -747,141 +747,142 @@ oscar: "Y"
   syn: "In an interview with Peter Bogdanovich, Alfred Hitchcock revealed that this movie was inspired by a legend of an Englishwoman who went with her daughter to the Palace Hotel in Paris in the 1880s, at the time of the Great Exposition: 'The woman was taken sick and they sent the girl across Paris to get some medicine in a horse-vehicle, so it took about four hours. When she came back she asked, 'How's my mother?' 'What mother?' 'My mother. She's here, she's in her room. Room 22.' They go up there. Different room, different wallpaper, everything. And the payoff of the whole story is, so the legend goes, that the woman had bubonic plague and they dared not let anybody know she died, otherwise all of Paris would have emptied.' The urban legend, known as the Vanishing Hotel Room, also formed the basis of one segment of the German portmanteau film Eerie Tales (1919), So Long at the Fair (1950) (in which the missing person was the young woman's brother as opposed to her mother) and Alfred Hitchcock Presents: Into Thin Air (1955), starring Hitchcock's daughter Patricia Hitchcock.",
   links: ["https://www.imdb.com/title/tt0030341/?ref_=nv_sr_srsg_3"],
   oscar: ""
-}
-/*,
+},
 {
 year: 1939,
 title: "Gone With the Wind",
 init: "GWTW",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "Victor Fleming",
+stars: ["Clark Gable", "Vivien Leigh", "Thomas Mitchell", "Leslie Howard", "Olivia de Havilland"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["Oscar Winner","./pics/georgereeves.png", "./pics/thomasmitchell.jpg"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+syn: "the manipulative daughter of a Georgia plantation owner conducts a turbulent romance with a roguish profiteer during the American Civil War and Reconstruction periods.",
+links: ["https://www.imdb.com/title/tt0031381/"],
 oscar: "Y"
 },
 {
 year: 1939,
 title: "Mr. Smith Goes to Washington",
 init: "MSGTW",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "Frank Capra",
+stars: ["Jimmy Stewart", "Jean Arthur", "Claude Rains", "Edward Arnold", "Thomas Mitchell"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["Claude Rains should have won supporting actor award","./auds/mrsmith.m4a", "./pics/mrsmith.png"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+syn: "a naive youth leader is appointed to fill a vacancy in the U.S. Senate. His idealistic plans promptly collide with corruption at home and subterfuge from his hero in Washington, but he tries to forge ahead despite attacks on his character.",
+links: ["https://www.imdb.com/title/tt0031679/?ref_=vp_vi_tt"],
 oscar: "N"
 },
 {
 year: 1939,
 title: "The Wizard of Oz",
 init: "TWOO",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "Victor Fleming",
+stars: ["Judy Garland", "Frank Morgan", "Ray Bolger", "Burt Lahr"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["Little dog","./auds/wizard.m4a", "./vids/wizard.mp4"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+syn: "Victor Fleming's colorful (Technicolored) children's fantasy classic became one of the most popular films of all time.The fantasy musical from MGM during its golden years, based on Frank Baum's 1900 novel, was screened perennially for many seasons on television. Its many songs in its Oscar-winning Best Original Score were from Harold Arlen (composer) and Edgar 'Yip' Harburg (lyricist). All of its fanciful images (the Yellow Brick Road, the Kansas twister), characters (e.g., Auntie Em, Toto, Dorothy, the Wicked Witch, Scarecrow, Tin Man, Cowardly Lion, the Wizard), dialogue (e.g., Lions and tigers and bears, oh my!, 'Were not in Kansas anymore,' 'Follow the Yellow Brick Road,' or the films final line: 'There's no place like home'), and theme song music (Best Original Song: '(Somewhere) Over the Rainbow') have become indelibly remembered.",
+links: ["https://www.imdb.com/title/tt0032138/?ref_=nv_sr_srsg_0"],
 oscar: "N"
 },
 {
 year: 1939,
 title: "Dark Victory",
 init: "DV",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "Edmund Goulding",
+stars: ["Bette Davis", "George Brent", "Humphrey Bogart"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["Bette Davis said it was her favorite roll","./pics/darkvictory.png"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+syn: "Judith Traherne is at the height of young society when Dr. Frederick Steele diagnoses a brain tumor. After surgery, she falls in love with Steele. The doctor tells her secretary that the tumor will come back and eventually kill her. Learning this, Judith becomes manic and depressive. Her horse trainer Michael, who loves her, tells her to get as much out of life as she can. She marries Steele who intends to find a cure for her illness",
+links: ["https://www.imdb.com/title/tt0031210/?ref_=fn_al_tt_1"],
 oscar: "N"
 },
 {
 year: 1939,
 title: "Stagecoach",
 init: "S",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "John Ford",
+stars: ["John Wayne", "Claire Trevor", "Thomas Mitchell", "Andy Devine"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["Western","Acadamy Award for Thomas Mitchell", "./auds/stagecoach.m4a"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+syn: "a simple stagecoach trip is complicated by the fact that Geronimo is on the warpath in the area. The passengers on the coach include a drunken doctor, two women, a bank manager who has taken off with his client's money, and the famous Ringo Kid, among others",
+links: ["https://www.imdb.com/title/tt0031971/?ref_=nv_sr_srsg_0"],
 oscar: "N"
-},
+}
+,
 {
 year: 1939,
 title: "Goodbye Mr. Chips",
 init: "GMC",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "Sam Wood",
+stars: ["Robert Donat", "Greer Garson", "Terry Kilburn"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["Ich bin ein Berliner (obtuse clue)","./pics/chips.jpg", "./pics/chips.png"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+syn: "An old classics teacher looks back over his long career, remembering pupils and colleagues, and above all the idyllic courtship and marriage that transformed his life.",
+links: ["https://www.imdb.com/title/tt0031385/?ref_=fn_al_tt_1"],
 oscar: ""
 },
 {
 year: 1939,
 title: "Of Mice and Men",
 init: "OMAM",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "Lewis Milestone",
+stars: ["Lon Chaney Jr.", "Burgess Meredith", "Betty Field"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["I will call him George","./pics/miceandmen.png"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+syn: "George Milton and Lennie Small are migrant workers in the 1930s Depression. Lennie is mentally disabled and George looks after him. While working as hands on a Western ranch, they dream of owning their own ranch and the opportunity may be available. Their current ranch is owned by a sadistic man who has a flirtatious wife",
+links: ["https://www.imdb.com/title/tt0031742/?ref_=fn_al_tt_2"],
 oscar: ""
 },
 {
 year: 1939,
 title: "Ninotchka",
 init: "N",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "Ernst Lubitsch",
+stars: ["Greta Garbo", "Melvyn Douglas", "Ina Claire"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["./pics/ninotchka1.png","./pics/ninotchka2.png"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+syn: "a stern Soviet woman sent to Paris to supervise the sale of jewels seized from Russian nobles finds herself attracted to a man who represents everything she is supposed to detest.",
+links: ["https://www.imdb.com/title/tt0031725/?ref_=nv_sr_srsg_0"],
 oscar: ""
 },
+/*
 {
 year: 1939,
 title: "Wuthering Heights",
 init: "WH",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "William Wyler",
+stars: ["Merle Oberon", "Laurence Olivier", "David Niven", "Flora Robson", "Donald Crisp"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["./pics/flora.png","./pics/geraldinewuth.png", "./pics/wuth.png"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
+syn: "unfortunate lovers Cathy (Merle Oberon) and Heathcliff (Sir Laurence Olivier) who, despite a deep affection for one another, are forced by circumstance and prejudice to live their lives apart. Heathcliff and Cathy first meet as children when her father, Mr. Earnshaw (Cecil Kellaway) brings the abandoned boy to live with them. When the old man dies several years later, Cathy's brother, Hindley (Hugh Williams), now the master of the estate, turns Heathcliff out, forcing him to live with the servants and working as a stable boy. The barrier of class comes between them, and she eventually marries a rich neighbor, Edgar Linton (David Niven), at which point, Heathcliff disappears. He returns several years later, now a rich man, but little can be done. ",
+links: ["https://www.imdb.com/title/tt0032145/?ref_=nv_sr_srsg_6"],
 oscar: ""
 },
 {
@@ -1059,6 +1060,7 @@ let initColors=['#fffc31', '#D8973C', '#c029b6', '#22c9c3', '#687fb1']
 
 // Select modal
 let mpopup = document.getElementById('mpopupBox');
+let modalContentEl = document.querySelector('.modal-content');
 let mpopupBodyEl = document.querySelector('.modal-body');
 let modalTextEl = document.getElementById('modal-txt');
 let modalImgEl = document.getElementById('modal-img');
@@ -1315,7 +1317,7 @@ function showVid(video){
   }
 
 
-
+/*
 // Close modal once close element is clicked
 close.onclick = function() {
   mpopup.style.display = "none";
@@ -1326,7 +1328,45 @@ close.onclick = function() {
     }
   }  
 
-};
+};*/
+
+close.onclick = function() {
+  let start = Date.now(); // remember start time
+
+
+  let timer = setInterval(function() {
+    // how much time passed from the start?
+    let timePassed = Date.now() - start;
+
+    if (timePassed >= 1500) {
+      clearInterval(timer); // finish the animation after 2 seconds
+      mpopup.style.display = "none";
+      modalContentEl.style.top = 0 + 'px'
+      modalVidEl.pause()
+      if (sound===true){
+      if (soundPlayer){
+        soundPlayer.play();
+        }
+      }  
+    
+      return;
+    }
+
+    // draw the animation at the moment timePassed
+    draw(timePassed);
+
+  }, 20);
+
+  // as timePassed goes from 0 to 2000
+  // left gets values from 0px to 400px
+  function draw(timePassed) {
+    modalContentEl.style.top = 0 - (timePassed / 3 ) + 'px';
+}
+}
+
+
+
+
 
 
 
@@ -1565,6 +1605,7 @@ let icon = btn.querySelector(".fa-volume-up");
 
 btn.onclick = function (){
     music();
+    console.log("classlist when clicked = " + icon.classList)
     if(icon.classList.contains("fa-volume-up")){
         icon.classList.replace("fa-volume-up", "fa-volume-off");
     }
