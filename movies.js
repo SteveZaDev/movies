@@ -882,7 +882,7 @@ videos: [''],
 audios: [""],
 syn: "unfortunate lovers Cathy (Merle Oberon) and Heathcliff (Sir Laurence Olivier) who, despite a deep affection for one another, are forced by circumstance and prejudice to live their lives apart. Heathcliff and Cathy first meet as children when her father, Mr. Earnshaw (Cecil Kellaway) brings the abandoned boy to live with them. When the old man dies several years later, Cathy's brother, Hindley (Hugh Williams), now the master of the estate, turns Heathcliff out, forcing him to live with the servants and working as a stable boy. The barrier of class comes between them, and she eventually marries a rich neighbor, Edgar Linton (David Niven), at which point, Heathcliff disappears. He returns several years later, now a rich man, but little can be done. ",
 links: ["https://www.imdb.com/title/tt0032145/?ref_=nv_sr_srsg_6"],
-oscar: "T"
+oscar: ""
 },
 
 {
@@ -898,7 +898,7 @@ videos: [''],
 audios: [""],
 syn: "3 adopted brothers learn a valuable sapphire of their adopted Mother is about to be sold, leaving nothing of value for Lady Brandon. At Beau's request, the gem is brought out for one last look when suddenly the lights go out and it is stolen. All present proclaim their innocence, but first Beau and then Digby depart without warning, each leaving a confession that he committed the robbery. The third brother John, reluctantly parts from his beloved Isobel and goes after his brothers. ",
 links: ["https://www.imdb.com/title/tt0031088/"],
-oscar: "T"
+oscar: ""
 },
 
 {
@@ -914,7 +914,7 @@ videos: [''],
 audios: [""],
 syn: "Kent, the unscrupulous boss of Bottleneck has Sheriff Keogh killed. The mayor, who is in cahoots with Kent appoints the town drunk, Washington Dimsdale, as the new sheriff assuming that he'll be easy to control. But what the mayor doesn't know is that Dimsdale was a deputy under famous lawman, Tom Destry, and is able to call upon the equally formidable Tom Destry Jr to be his deputy.",
 links: ["https://www.imdb.com/title/tt0031225/?ref_=fn_al_tt_1"],
-oscar: "T"
+oscar: ""
 },
 {
 year: 1939,
@@ -929,7 +929,7 @@ videos: [''],
 audios: [""],
 syn: "young farmer Gilbert Martin and his bride Lana, marry shortly before the revolutionary war starts. They settle in Upstate New York and settle their homestead when the war begins. For the next six years Gilbert fights in the war as he and Lana try to establish their homestead.",
 links: ["https://www.imdb.com/title/tt0031252/"],
-oscar: "T"
+oscar: ""
 },
 {
 year: 1939,
@@ -944,7 +944,7 @@ videos: [''],
 audios: [""],
 syn: "Harry Faversham resigns his commission on the eve of his unit's deployment against Egyptian rebels, and then seeks to redeem his cowardice by secretly aiding his former comrades, disguised as an Arab. When his unit is overwhelmed and captured by the rebels, the hero finds an opportunity to return the 'feathers' of cowardice sent to him by his former comrades by freeing them.",
 links: ["https://www.imdb.com/title/tt0031334/"],
-oscar: "T"
+oscar: ""
 },
 {
 year: 1939,
@@ -959,53 +959,53 @@ videos: [''],
 audios: [""],
 syn: "in 19th century India, three British soldiers and a native waterbearer must stop a secret mass revival of the murderous Thuggee cult before it can rampage across the land.",
 links: ["https://www.imdb.com/title/tt0031398/"],
-oscar: ""
+oscar: "T"
 },
-/*
+
 {
 year: 1939,
 title: "The Hunchback of Notre Dame",
 init: "THOND",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "William Dieterle",
+stars: ["Charles Laughton", "Maureeen O'Hara", "Cedric Hardwicke", "Edmond O'Brien" ],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["./pics/notre.png","./pics/notre2.png", "./vids/hunch.mp4"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
-oscar: ""
+syn: "in 15th-century France, a gypsy girl is framed for murder by the infatuated Chief Justice, and only the deformed bellringer of Notre Dame Cathedral can save her.",
+links: ["https://www.imdb.com/title/tt0031455/"],
+oscar: "T"
 },
 {
 year: 1939,
 title: "Only Angels Have Wings",
 init: "OAHW",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "Howard Hawks",
+stars: ["Cary Grant", "Jean Arthur", "Rita Hayworth"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["South America Air","./pics/angels.jpg", "./pics/angels2.jpg"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
-oscar: ""
+syn: "at a remote South American trading port, the manager of an air-freight company is forced to risk his pilots lives in order to win an important contract as a traveling American showgirl stops in town.",
+links: ["https://www.imdb.com/title/tt0031762/"],
+oscar: "T"
 },
 {
 year: 1939,
 title: "Son of Frankenstein",
 init: "SOF",
-director: "George Cukor",
-stars: ["Cary Grant", "Katharine Hepburn", "Doris Nolan", "Lew Ayers"],
+director: "Rowland V. Lee",
+stars: ["Boris Karloff", "Basil Rathbone", "Bela Lugosi"],
 lines: [""],
-hints: ["I never heard of it, but it has 2 huge stars from the 30's","./pics/holiday.png", "./pics/holiday2.png"],
+hints: ["Sequel to a 1931 horror classic.","./pics/sonof.png", "./pics/sonof2.png"],
 pics: [],
 videos: [''],
 audios: [""],
-syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
-links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
-oscar: ""
+syn: "Wolf von Frankenstein (Basil Rathbone) returns to the Baronial manor from the United States with his wife Elsa and son Peter. He is not made welcome by the locals who are still terrified of his father's works and the monster he created.",
+links: ["https://www.imdb.com/title/tt0031951/?ref_=nv_sr_srsg_0_tt_8_nm_0_q_son%2520of%2520frank"],
+oscar: "T"
 },
 {
 year: 1939,
@@ -1021,11 +1021,8 @@ audios: [""],
 syn: "a young man in love with a girl from a rich family finds his unorthodox plan to go on holiday for the early years of his life met with skepticism by everyone except for his fiancée's eccentric sister and long-suffering brother.",
 links: ["https://www.imdb.com/title/tt0030241/?ref_=nv_sr_srsg_7"],
 oscar: ""
-}
-  
-
-  
-  ,
+},
+/*
 {
   year: 1957,
   title: "Bridge on the River Kwai",
@@ -1149,8 +1146,9 @@ input.addEventListener("keyup", function(event) {
 });
 
 
-
-
+if (!window.localStorage.getItem("viewedhelpM")){
+  showViewHelp();
+}
 
 // END OF GET NUMBER OF OSCAR WINNERS ALONG WITH SPAN OF YEARS
 
@@ -1275,13 +1273,25 @@ function showTestItems(){
 function showHelp(){
   modalTextEl.style.fontSize = '1.05rem';
   modalHeaderTextEl.textContent = "WELCOME TO M.O.V.I.E.S.";
-  modalTextEl.textContent = ("So far, 'M.O.V.I.E.S.' " + "has a collection of " + protoMovies.length + " films starting with the year " + earliestYear + " and going thru to " + latestYear + ", including " + oscarWinners + " Oscar winners. You can generate movie initials in one of two ways. Select the 'Random' button to display the initials of one and only one movie. If you select the 'Oscars' button you will get either a set of initials for Oscar nominated films from one randomly selected year, or you will get a set of initials of 5 Oscar winning films from a consecutive 5 year span between " + earliestYear + " and " + latestYear + ", but the order will be jumbled. To take a guess, enter the movie name in the text box and either press the enter key or click 'Sub'. Up to 3 hints are available for each film. These hints can be in the form of a word or short phrase, an audio clip, an image or a short video clip. Another helpful aide is to hover over and/or click on any of the initials displayed. That letter, along with the rest of the initials for the movie it is part of, will change color. When all else fails, you can select the 'Ans' button. Once there, '...' will take you to more info."); 
+  modalTextEl.textContent = ("A game where you have to guess the movie based on its initials and up to 3 clues. So far, 'M.O.V.I.E.S.' " + "has a collection of " + protoMovies.length + " films starting with the year " + earliestYear + " and going thru to " + latestYear + ", including " + oscarWinners + " Oscar winners. You can generate movie initials in one of two ways. Select the 'Random' button to display the initials of one and only one movie. If you select the 'Oscars' button you will get either a set of initials for Oscar nominated films from one randomly selected year, or you will get a set of initials of 5 Oscar winning films from a consecutive 5 year span between " + earliestYear + " and " + latestYear + ", but the order will be jumbled. To take a guess, enter the movie name in the text box and either press the enter key or click 'Sub'. Up to 3 hints are available for each film. These hints can be in the form of a word or short phrase, an audio clip, an image or a short video clip. Another helpful aide is to hover over and/or click on any of the initials displayed. That letter, along with the rest of the initials for the movie it is part of, will change color. When all else fails, you can select the 'Ans' button. Once there, '...' will take you to more info."); 
   modalImgEl.style.display = "none";
   modalVidEl.style.display = "none";
   mpopup.style.display = "block";
   modalTextEl.style.display = "block";
-
+  window.localStorage.setItem("viewedhelpM", "viewed" )
 }
+
+function showViewHelp(){
+  modalTextEl.style.fontSize = '1.05rem';
+  modalHeaderTextEl.textContent = "WELCOME TO M.O.V.I.E.S.";
+  modalTextEl.textContent = ("Please click or tap the Help icon ? for important info. Thanks."); 
+  modalImgEl.style.display = "none";
+  modalVidEl.style.display = "none";
+  mpopup.style.display = "block";
+  modalTextEl.style.display = "block";
+}
+
+
 
 function showImg(image){ 
   modalImgEl.src=image
